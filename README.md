@@ -95,6 +95,10 @@ You have made it till the end. Kudos to you!!
 
 <hr> </hr>
 
+## Follow Us on Social Media
+Instagram - https://www.instagram.com/sanjus.robotics.studio/
+Youtube - https://www.youtube.com/channel/UCX0DaS-Lzs72U_Jm4FOzfpw
+
 ### Where to upload the files
 
 - Your files should be uploaded directly into the corresponding folder (For instance, if you are uploading an image it should be in img folder only, and same goes for the code snippet that is to be updated in index.html)
