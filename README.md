@@ -96,8 +96,9 @@ You have made it till the end. Kudos to you!!
 <hr> </hr>
 
 ## Follow Us on Social Media
-Instagram - https://www.instagram.com/sanjus.robotics.studio/
-Youtube - https://www.youtube.com/channel/UCX0DaS-Lzs72U_Jm4FOzfpw
+- Instagram - https://www.instagram.com/sanjus.robotics.studio/
+
+- Youtube - https://www.youtube.com/channel/UCX0DaS-Lzs72U_Jm4FOzfpw
 
 ### Where to upload the files
 
