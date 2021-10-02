@@ -32,7 +32,7 @@ We’ll use the git clone command along with the URL that points to your fork of
 - Type this command:
 
 ```
-git clone https://github.com/hacktoberfest2021/
+git clone https://github.com/your-github-username/hacktoberfest2021/
 ```
 
 ### Step 2: Creating a New Branch
