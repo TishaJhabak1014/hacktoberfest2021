@@ -9672,3 +9672,51 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+
+/* for faq */
+.card, .card-header{
+  background-color: transparent !important;
+  border: none !important;
+  padding: 0 !important;
+  margin-bottom: 20px !important;
+}
+.card{
+  box-shadow: 0 2px 25px 0 rgba(110, 130, 208, 0.18);
+}
+.btn-link{
+  width: 100% !important;
+  height: 60px !important;
+  color: #000 !important;
+  font-weight: bold !important;
+  text-align: left !important;
+  text-decoration: none !important;
+}
+.card-body{
+  background: #e8eeff;
+}
+.btn-link:after{
+  content: '\2212';
+  width: 35px;
+  font-size: 25px;
+  text-align: center !important;
+  border-radius: 5px;
+  right: 15px;
+  top: 11px;
+  position: absolute;
+  background: #e8eeff;
+}
+
+.btn-link.collapsed:after{
+  content: '\002B';
+}
+.btn-link:before{
+  content: '';
+  height: 25px;
+  width: 25px;
+  position: absolute;
+  background: rgb(243, 240, 240);
+  z-index: 1;
+  transform: rotate(45deg);
+  left: 30px;
+  top: 50px;
+}
