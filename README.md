@@ -102,7 +102,7 @@ You have made it till the end. Kudos to you!!
 
 ### Where to upload the files
 
-- Your files should be uploaded directly into the corresponding folder (For instance, if you are uploading an image it should be in img folder only, and same goes for the code snippet that is to be updated in index.html)
+- Your files should be uploaded directly into the corresponding folder (For instance, if you are uploading an image it should be in images folder only, and same goes for the code snippet that is to be updated in index.html)
 - **Under no circumstances create new folders within the language folders to upload your code unless specifically told to do so.**
 
 
